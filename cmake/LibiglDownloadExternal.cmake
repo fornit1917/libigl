@@ -58,8 +58,8 @@ endfunction()
 ## Cork
 function(igl_download_cork)
 	igl_download_project(cork
-		GIT_REPOSITORY https://github.com/libigl/cork.git
-		GIT_TAG        27ad8a285838f5a480d856429e39d3d56d4338f9
+		GIT_REPOSITORY https://github.com/fornit1917/cork.git
+		GIT_TAG        64ab83ac21f982c16176c9c9f4d4eee28606f5f2
 	)
 endfunction()
 
